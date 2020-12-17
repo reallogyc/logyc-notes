@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>LOGYC Notes</title>
+    <link href="https://reallogyc.github.io/logyc-notes/feed.xml" rel="self" />
+    <link href="https://reallogyc.github.io/logyc-notes" />
+    <updated>2020-12-16T17:44:59+05:30</updated>
+    <author>
+        <name>Maayur</name>
+    </author>
+    <id>https://reallogyc.github.io/logyc-notes</id>
+
+    <entry>
+        <title>Hello Publii</title>
+        <author>
+            <name>Maayur</name>
+        </author>
+        <link href="https://reallogyc.github.io/logyc-notes/hello-publii.html"/>
+        <id>https://reallogyc.github.io/logyc-notes/hello-publii.html</id>
+
+        <updated>2020-12-16T17:44:59+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Ahhh...Intresting UI and Overall Experience😀
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Ahhh...Intresting UI and Overall Experience😀</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "LOGYC Notes",
+    "description": "",
+    "home_page_url": "https://reallogyc.github.io/logyc-notes",
+    "feed_url": "https://reallogyc.github.io/logyc-notes/feed.json",
+    "user_comment": "",
+    "icon": "https://reallogyc.github.io/logyc-notes/media/website/color-palette.png",
+    "author": {
+        "name": "Maayur"
+    },
+    "items": [
+        {
+            "id": "https://reallogyc.github.io/logyc-notes/hello-publii.html",
+            "url": "https://reallogyc.github.io/logyc-notes/hello-publii.html",
+            "title": "Hello Publii",
+            "summary": "Ahhh...Intresting UI and Overall Experience😀",
+            "content_html": "<p>Ahhh...Intresting UI and Overall Experience😀</p>",
+            "author": {
+                "name": "Maayur"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-16T17:21:43+05:30",
+            "date_modified": "2020-12-16T17:44:59+05:30"
+        }
+    ]
+}

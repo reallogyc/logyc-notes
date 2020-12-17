@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://reallogyc.github.io/logyc-notes/sitemap.xml
