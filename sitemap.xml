@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://reallogyc.github.io/logyc-notes/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://blog.logyc.xyz/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://reallogyc.github.io/logyc-notes/</loc>
+<loc>https://blog.logyc.xyz/</loc>
 </url>
 <url>
-<loc>https://reallogyc.github.io/logyc-notes/hello-publii/</loc>
+<loc>https://blog.logyc.xyz/hello-publii/</loc>
 <lastmod>2020-12-17T11:37:22+05:30</lastmod>
 <image:image>
-<image:loc>https://reallogyc.github.io/logyc-notes/media\posts\1/65.PNG</image:loc>
+<image:loc>https://blog.logyc.xyz/media\posts\1/65.PNG</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
