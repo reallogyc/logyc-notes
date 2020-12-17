@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>LOGYC Notes</title>
-    <link href="https://blog.logyc.xyz/feed.xml" rel="self" />
-    <link href="https://blog.logyc.xyz" />
+    <link href="https://notes.logyc.xyz/feed.xml" rel="self" />
+    <link href="https://notes.logyc.xyz" />
     <updated>2020-12-17T11:37:22+05:30</updated>
     <author>
         <name>Maayur</name>
     </author>
-    <id>https://blog.logyc.xyz</id>
+    <id>https://notes.logyc.xyz</id>
 
     <entry>
         <title>Hello Publii</title>
         <author>
             <name>Maayur</name>
         </author>
-        <link href="https://blog.logyc.xyz/hello-publii/"/>
-        <id>https://blog.logyc.xyz/hello-publii/</id>
+        <link href="https://notes.logyc.xyz/hello-publii/"/>
+        <id>https://notes.logyc.xyz/hello-publii/</id>
 
         <updated>2020-12-17T11:37:22+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blog.logyc.xyz/media/posts/1/65.PNG" alt="" />
+                        <img src="https://notes.logyc.xyz/media/posts/1/65.PNG" alt="" />
                     Interested in Making Android App or have a good idea, but don't know to code. Don't worry we got you&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://blog.logyc.xyz/media/posts/1/65.PNG" alt="" />
+                    <img src="https://notes.logyc.xyz/media/posts/1/65.PNG" alt="" />
                 <div class="blockHeadingContent-756c9114"><span class="text-4505230f--HeadingH400-686c0942--textContentFamily-49a318e1"><span data-key="80270ca8602e446aa40cc650b48f0415">Interested in Making Android App or have a good idea, but don't know to code. Don't worry we got you a new toy !!</span></span><a href="#interested-in-making-android-app-or-have-a-good-idea-but-dont-know-to-code-dont-worry-we-got-you-a-new-toy"  class="blockHeadingAnchor-34f75d78--blockHeadingAnchorHidden-d69b5eda"><svg preserveaspectratio="xMidYMid meet" height="1em" width="1em" fill="none" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" class="icon-7f6730be--text-3f89f380"><g><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></g></svg></a></div>
 <div data-slate-void="true" data-key="0de90f0e29cc4da29c0387bce8f93a88">
 <div>
