@@ -3,7 +3,7 @@
     <title>LOGYC Notes</title>
     <link href="https://notes.logyc.xyz/feed.xml" rel="self" />
     <link href="https://notes.logyc.xyz" />
-    <updated>2021-01-30T20:38:27+05:30</updated>
+    <updated>2021-02-01T20:16:16+05:30</updated>
     <author>
         <name>Maayur</name>
     </author>
@@ -18,11 +18,11 @@
         <id>https://notes.logyc.xyz/kodular-no-code-app-creator/</id>
             <category term="Articles"/>
 
-        <updated>2021-01-30T20:38:27+05:30</updated>
+        <updated>2021-02-01T20:16:16+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://notes.logyc.xyz/media/posts/12/65.PNG" alt="" />
-                    Interested in Making Android App or have a good idea, but don't know to code. Don't worry we got you a new toy !! Kodular - A Modern App Creator, is a Distribution of MIT App Inventor. A Blocky based Android App Development Platform. Developing Applications is&hellip;
+                    Interested in Making Android App or have a good idea, but don't know to code. Don't worry we got you a new toy !! Kodular - A Modern App Creator, is a Distribution of MIT App Inventor. A Blocky based Android App Development Platform. Developing Applications is as&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -31,35 +31,26 @@
                 <div class="blockHeadingContent-756c9114"><span class="text-4505230f--HeadingH400-686c0942--textContentFamily-49a318e1"><span data-key="80270ca8602e446aa40cc650b48f0415">Interested in Making Android App or have a good idea, but don't know to code. Don't worry we got you a new toy !!</span></span><svg preserveaspectratio="xMidYMid meet" height="1em" width="1em" fill="none" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" class="icon-7f6730be--text-3f89f380"><g><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></g></svg></div>
 <div> </div>
 <div><figure class="post__image"><img loading="lazy"  src="https://notes.logyc.xyz/media/posts/12/65-2.PNG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://notes.logyc.xyz/media/posts/12/responsive/65-2-xs.PNG 300w ,https://notes.logyc.xyz/media/posts/12/responsive/65-2-sm.PNG 480w ,https://notes.logyc.xyz/media/posts/12/responsive/65-2-md.PNG 768w ,https://notes.logyc.xyz/media/posts/12/responsive/65-2-lg.PNG 1024w ,https://notes.logyc.xyz/media/posts/12/responsive/65-2-xl.PNG 1360w ,https://notes.logyc.xyz/media/posts/12/responsive/65-2-2xl.PNG 1600w"  alt="" width="1905" height="871"></figure></div>
-<div> </div>
 <div data-slate-void="true" data-key="0de90f0e29cc4da29c0387bce8f93a88">
 <div>
 <figure class="reset-3c756112--figure-c0d4b308" data-key="0de90f0e29cc4da29c0387bce8f93a88">
-<div class="reset-3c756112--figureAlignCenter-2d9bf702">
-<div class="reset-3c756112--figureLayer-b6ab7c94"> </div>
-</div>
 <div class="reset-3c756112--figureAlignCenter-2d9bf702"><a class="link-a079aa82--primary-53a25e66--link-faf6c434" href="https://www.kodular.io/" target="_blank" rel="noopener noreferrer" data-key="3ccc7b41f9cd4aaa86ecf3fbfe74386d" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><span data-key="31412e3b62ea4710a6da9a31cfcc8c76">Kodular</span></a><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);" data-key="64505d9950d1460383d641a1ffa11af0"> - A Modern App Creator, is a Distribution of</span><a class="link-a079aa82--primary-53a25e66--link-faf6c434" href="https://appinventor.mit.edu/" target="_blank" rel="noopener noreferrer" data-key="07c31e29f55a4221bbcd720020f4af11" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><span data-key="ca1d6fc018034dfabe9f8bcd2e5bb468"> MIT App Inventor</span></a><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);" data-key="37ffd98f911746b0a6a5831c95c3399e">. A Blocky based Android App Development Platform. Developing Applications is as easy as <strong class="bold-3c254bd9" data-slate-leaf="true">Drag-Drop-Block-Repeat</strong>.</span></div>
 <div class="reset-3c756112--figureAlignCenter-2d9bf702"><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Kodular comes with a very clean and simple Material UI giving the Creator the best looks and UX.</span></div>
 </figure>
 </div>
 </div>
 <p class="blockParagraph-544a408c" data-key="2f8ac418fad7469b9d58ad4f2dd994e0"><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="afca7206ceda4c618802e34bda6ccc8d">Starting here is so simple, just head to their homepage, click on <strong class="bold-3c254bd9" data-slate-leaf="true">Create Apps</strong> and log in using any desired option. It will take you to Kodular Creator. Where you will turn Ideas to Apps. There click on <strong class="bold-3c254bd9" data-slate-leaf="true">create new project</strong>, a pop-up will appear enter your project name then configure your project setting and click on Finish and Congratulations your Project is Created 🥳</span></span></p>
-<figure class="post__image"><img loading="lazy"  src="https://notes.logyc.xyz/media/posts/12/333.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://notes.logyc.xyz/media/posts/12/responsive/333-xs.png 300w ,https://notes.logyc.xyz/media/posts/12/responsive/333-sm.png 480w ,https://notes.logyc.xyz/media/posts/12/responsive/333-md.png 768w ,https://notes.logyc.xyz/media/posts/12/responsive/333-lg.png 1024w ,https://notes.logyc.xyz/media/posts/12/responsive/333-xl.png 1360w ,https://notes.logyc.xyz/media/posts/12/responsive/333-2xl.png 1600w"  alt="" width="3264" height="1836"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://notes.logyc.xyz/media/posts/12/333.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://notes.logyc.xyz/media/posts/12/responsive/333-xs.png 300w ,https://notes.logyc.xyz/media/posts/12/responsive/333-sm.png 480w ,https://notes.logyc.xyz/media/posts/12/responsive/333-md.png 768w ,https://notes.logyc.xyz/media/posts/12/responsive/333-lg.png 1024w ,https://notes.logyc.xyz/media/posts/12/responsive/333-xl.png 1360w ,https://notes.logyc.xyz/media/posts/12/responsive/333-2xl.png 1600w"  alt="" width="3264" height="1836"></figure><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Now as your project is created, let's see how to use the Creator. When your Project is Opened, you will see an Interface for creating apps called </span><strong class="bold-3c254bd9" style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;" data-slate-leaf="true">Designer</strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">. Where it has Component Platte at Left an Android Device Mockup at Center and a Properties tab at Right along with some Buttons in the top menu.</span></p>
 <div data-slate-void="true" data-key="90fb16ce50ab4f30ba65a090270682df">
-<div>
 <figure class="reset-3c756112--figure-c0d4b308" data-key="90fb16ce50ab4f30ba65a090270682df">
-<div class="reset-3c756112--figureAlignCenter-2d9bf702"><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Now as your project is created, let's see how to use the Creator. When your Project is Opened, you will see an Interface for creating apps called </span><strong class="bold-3c254bd9" style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;" data-slate-leaf="true">Designer</strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">. Where it has Component Platte at Left an Android Device Mockup at Center and a Properties tab at Right along with some Buttons in the top menu.</span></div>
 <div><figure class="post__image"><img loading="lazy"  src="https://notes.logyc.xyz/media/posts/12/963.PNG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://notes.logyc.xyz/media/posts/12/responsive/963-xs.PNG 300w ,https://notes.logyc.xyz/media/posts/12/responsive/963-sm.PNG 480w ,https://notes.logyc.xyz/media/posts/12/responsive/963-md.PNG 768w ,https://notes.logyc.xyz/media/posts/12/responsive/963-lg.PNG 1024w ,https://notes.logyc.xyz/media/posts/12/responsive/963-xl.PNG 1360w ,https://notes.logyc.xyz/media/posts/12/responsive/963-2xl.PNG 1600w"  alt="" width="1920" height="914"></figure></div>
 </figure>
-</div>
 </div>
 <div data-slate-void="true" data-key="528b70622a564d90bbdb1edf9478d5b7">
 <div>
 <figure class="reset-3c756112--figure-c0d4b308" data-key="528b70622a564d90bbdb1edf9478d5b7">
-<div class="reset-3c756112--figureAlignCenter-2d9bf702">
-<div class="reset-3c756112--figureLayer-b6ab7c94"> </div>
-</div>
 <div class="reset-3c756112--figureAlignCenter-2d9bf702"><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Now you can use the components from Palette and drag them to Mockup Screen to add then in your app and use Properties tab to change look/properties of the component. You can also add External Files like Images, Fonts, Pdf, Json, Etc. By Clicking on the Assest Button on the Top Right Corner.</span></div>
+<div> </div>
 <div><figure class="post__image"><img loading="lazy"  src="https://notes.logyc.xyz/media/posts/12/888.PNG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://notes.logyc.xyz/media/posts/12/responsive/888-xs.PNG 300w ,https://notes.logyc.xyz/media/posts/12/responsive/888-sm.PNG 480w ,https://notes.logyc.xyz/media/posts/12/responsive/888-md.PNG 768w ,https://notes.logyc.xyz/media/posts/12/responsive/888-lg.PNG 1024w ,https://notes.logyc.xyz/media/posts/12/responsive/888-xl.PNG 1360w ,https://notes.logyc.xyz/media/posts/12/responsive/888-2xl.PNG 1600w"  alt="" width="1920" height="916"></figure></div>
 </figure>
 </div>
@@ -67,9 +58,6 @@
 <div data-slate-void="true" data-key="a0a20d2408aa4395b3fdc2f4162cb645">
 <div>
 <figure class="reset-3c756112--figure-c0d4b308" data-key="a0a20d2408aa4395b3fdc2f4162cb645">
-<div class="reset-3c756112--figureAlignCenter-2d9bf702">
-<div class="reset-3c756112--figureLayer-b6ab7c94"> </div>
-</div>
 <div class="reset-3c756112--figureAlignCenter-2d9bf702"><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Now, by clicking on the Blocks button we will go the to blocks Section i.e the logical part of your App, where you will use blocks to perform Action on Event, Execute Procedures and more. Without going soo deep there, I would recommend you to Watch Tutorials Related to App Inventor and its Distros to Learn Using it. There are several Youtube Channel Available there.</span></div>
 </figure>
 </div>
