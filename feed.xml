@@ -3,7 +3,7 @@
     <title>LOGYC Notes</title>
     <link href="https://notes.logyc.xyz/feed.xml" rel="self" />
     <link href="https://notes.logyc.xyz" />
-    <updated>2021-02-19T12:28:53+05:30</updated>
+    <updated>2021-02-19T12:36:22+05:30</updated>
     <author>
         <name>Maayur</name>
     </author>
@@ -18,47 +18,42 @@
         <id>https://notes.logyc.xyz/app-inventor-and-distributions-or-q-and-a-or-intresting/</id>
             <category term="Articles"/>
 
-        <updated>2021-02-19T12:28:53+05:30</updated>
+        <updated>2021-02-19T12:36:22+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://notes.logyc.xyz/media/posts/16/aaa.jpg" alt="" />
+                        <img src="https://notes.logyc.xyz/media/posts/16/ghhh.jpg" alt="" />
                      Evan Patton, lead software engineer for the MIT App Inventor What are your views on the recent increase in the app inventor clones and their future ? App Inventor is open source so it's great to see others looking to fill gaps in functionality that&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://notes.logyc.xyz/media/posts/16/aaa.jpg" alt="" />
+                    <img src="https://notes.logyc.xyz/media/posts/16/ghhh.jpg" alt="" />
                 <div> </div>
 <ul style="list-style-type: square;">
 <li>
 <div><strong><span style="color: #3598db;">Evan Patton, lead software engineer for the MIT App Inventor </span></strong></div>
 <div> </div>
 What are your views on the recent increase in the app inventor clones and their future ?<br>
-<div> </div>
 <blockquote>
 <div>App Inventor is open source so it's great to see others looking to fill gaps in functionality that we have passed up on for one reason or another. I can't really speculate as to the long term viability of any of the downstream distributions as I have no involvement with them, but I do wish them all the best and encourage them to contribute back to App Inventor for the benefit of everyone.</div>
 </blockquote>
 <div> </div>
 <div>How do you see App Inventor and it's distributions like kodular in next 5 years ?</div>
-<div> </div>
 <blockquote>
 <div>Obviously each distribution has its different priorities. With respect to App Inventor, we have a number of research goals that we are interested. iOS support is the big ticket item we're invested in at a technical level, but we're also doing a lot of research into artificial intelligence and machine learning components. There's also a renewed interest in IOT type applications.</div>
 </blockquote>
 <div> </div>
 <div>Your views on iOS apps development with AI2 ?</div>
-<div> </div>
 <blockquote>
 <div>We continue to work with Apple App Store Review to get the MIT App Inventor Companion approved for use on iOS. They have more stringent requirements than Google so it's taking more time than I think most folks would like, but we have to play by their rules. We have a couple thousand beta testers using it at this point and it seems to be going fairly well. Internally we're also turning our attention toward the build system and what that will entail from an infrastructure perspective.</div>
 </blockquote>
 <div> </div>
 <div>Can AI2 completely replace Android Studio in future ?</div>
-<div> </div>
 <blockquote>
 <div>There are fundamental differences between the two platforms that I see no reason one to replace the other. Our aims are mainly at computer science education and empowering people to build apps for change. Android Studio gives much more flexibility but at the cost of additional complexity. There will always be tasks one can do in Android Studio but not in App Inventor.</div>
 </blockquote>
 <div> </div>
 <div>And finally, some tips or suggestions to new young student/users using these platforms.</div>
-<div> </div>
 <blockquote>
 <div>I think the most important piece of advice I can give is that it's okay to make mistakes. Even professional programmers can introduce bugs into their code (I certainly do), and so when you're learning a new tool or technology you will inevitably make a mistake somewhere along the line. It is expected. I think one of the real benefits of how App Inventor is set up is that you can use the companion app to test frequently and see how your changes affect the behavior of your app. When you encounter a bug, you can try to fix it right then and there by experimenting with changing the blocks. It's an extremely powerful tool to learn from your mistakes and makes you better at the task you're working on.</div>
 <div> </div>
@@ -80,13 +75,11 @@ What are your views on the recent increase in the app inventor clones and their 
 </blockquote>
 <div>
 <div>Your views on iOS apps development with AI2 ?</div>
-<div> </div>
 </div>
 <blockquote>
 <div>Nowadays, we are in the age of cross-platform apps with Android &amp; iOS being the two leading mobile OS. Cross-platform apps help businesses grow by serving users of both the platforms with a single codebase. iOS support in App Inventor could be revolutionary.</div>
 </blockquote>
 <div>Can AI2 completely replace Android Studio in future ?</div>
-<p> </p>
 <blockquote>
 <div>No, it won't. While no-code editors brings people of non-technical background on-board, code has its own place. Writing code allows one to achieve a great level of fine-tuning that no-code editors maybe certainly lacking at some point. We can only expect it (no-code editors) to solve a certain level of problems.</div>
 <div><hr></div>
@@ -96,7 +89,6 @@ What are your views on the recent increase in the app inventor clones and their 
 </ul>
 <p> </p>
 <div>What are your views on the recent increase in the app inventor clones and their future?</div>
-<div> </div>
 <blockquote>
 <div>I really think that all the App Inventor clones that are popping up everywhere is a bad thing. A lot of the, sometimes really young, developers only change the interface of App Inventor and think they made another builder are can call themselves developer altogether. We see a number of them stealing code from other builders because they don't understand the concept of copyright. </div>
 <div> </div>
@@ -106,7 +98,6 @@ What are your views on the recent increase in the app inventor clones and their 
 <div> </div>
 </blockquote>
 <div>How do you see App Inventor and it's distributions like Kodular in next 5 years?</div>
-<div> </div>
 <blockquote>
 <div>The no-code movement is not going to be stopped, so their importance will become greater and greater. A lot of those builders are payed but builders like App Inventor and Kodular are free to use. Kodular for instance will only charge you if you decide to monetize your app. That is a fair deal I think.</div>
 <div> </div>
@@ -114,19 +105,16 @@ What are your views on the recent increase in the app inventor clones and their 
 </blockquote>
 <div> </div>
 <div>Your views on iOS apps development with AI2?</div>
-<div> </div>
 <blockquote>
 <div>Most people in the world use Android phones but from september 2020 there are more then 1 billion active iphone users in the world. App Inventors goal of democratizing software development by empowering all people, especially young people, to move from technology consumption to technology creation will get more meaning if iPhone users will also have the ability to make their own apps.</div>
 </blockquote>
 <div> </div>
 <div>Can AI2 completely replace Android Studio in future?</div>
-<div> </div>
 <blockquote>
 <div>In theory it could, but i don't think that will happen. What App Inventor also tries to do is to get children interested in programming. Chances are they will switch to other languages after they reach the current limitations of App Inventor.</div>
 </blockquote>
 <div> </div>
 <div>Some tips or suggestions to new young student/users using these platforms.</div>
-<div> </div>
 <blockquote>
 <div>Take your time to learn. I see users starting with a really big project without knowing the basics of blockly based builders. Start small and then extend your app, piece by piece. Read books/websites, search online, try different methods, view videos, etc, etc. Don't expect to be an expert immediatelly. But above all enjoy and have fun.</div>
 <div> </div>
@@ -137,7 +125,6 @@ What are your views on the recent increase in the app inventor clones and their 
 </ul>
 <div> </div>
 <div>What are your views on the recent increase in the app inventor clones and their future ?</div>
-<div> </div>
 <blockquote>
 <div>generally good… however the market will decide, what happens…</div>
 <div>usually people do not like to pay anything to get everything…</div>
@@ -145,14 +132,12 @@ What are your views on the recent increase in the app inventor clones and their 
 </blockquote>
 <div> </div>
 <div>How do you see App Inventor and it’s distributions like kodular in next 5 years ?</div>
-<div> </div>
 <blockquote>
 <div>MIT App Inventor still will be there, there is MIT behind and as it is open source it will live “forever”…</div>
 <div>distributions usually are closed source, so it will depend on the teams… an important part is being able to pay the bills, for example server costs as well as improving the builder, so there must be something to generate income… without that and without a large user base there will be no future for a distribution</div>
 </blockquote>
 <div> </div>
 <div>Can AI2 completely replace Android Studio in future ?</div>
-<div> </div>
 <blockquote>
 <div>no, blocks will always have their limitations… to have real flexibility you will have to work in Java/Kotlin</div>
 </blockquote>
@@ -161,7 +146,11 @@ What are your views on the recent increase in the app inventor clones and their 
 <div><a href="https://community.kodular.io/t/general-tips-and-tricks-for-app-inventor-kodular/1084?u=maayur" target="_blank" rel="noopener noreferrer">General Tips and Tricks for App Inventor/Kodular</a></div>
 <div> </div>
 <div><a href="https://puravidaapps.com/learn.php" target="_blank" rel="noopener noreferrer">Top 5 Tips: How to learn App Inventor or Kodular</a></div>
+<div> </div>
+<div><hr></div>
+<div> </div>
 </blockquote>
+<div>Hope this article helped you to gain some new and Interesting Information, if so then share this to your Family and Friends also.<br><br>Have Questions about this article or another, Join our <a href="https://t.me/logycrealm" target="_blank" rel="noopener"><strong><a href="https://t.me/logycrealm" target="_blank" rel="noopener noreferrer">LOGYC</a> Realm</strong></a> on telegram and ask your doubts.<br><br><br><br><br><br>Peace ☮️  </div>
             ]]>
         </content>
     </entry>
