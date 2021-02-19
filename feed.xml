@@ -3,7 +3,7 @@
     <title>LOGYC Notes</title>
     <link href="https://notes.logyc.xyz/feed.xml" rel="self" />
     <link href="https://notes.logyc.xyz" />
-    <updated>2021-02-18T21:59:52+05:30</updated>
+    <updated>2021-02-19T12:28:53+05:30</updated>
     <author>
         <name>Maayur</name>
     </author>
@@ -18,15 +18,17 @@
         <id>https://notes.logyc.xyz/app-inventor-and-distributions-or-q-and-a-or-intresting/</id>
             <category term="Articles"/>
 
-        <updated>2021-02-18T21:59:52+05:30</updated>
+        <updated>2021-02-19T12:28:53+05:30</updated>
             <summary>
                 <![CDATA[
-                    Evan Patton, lead software engineer for the MIT App Inventor What are your views on the recent increase in the app inventor clones and their future ? App Inventor is open source so it's great to see others looking to fill gaps in functionality that&hellip;
+                        <img src="https://notes.logyc.xyz/media/posts/16/aaa.jpg" alt="" />
+                     Evan Patton, lead software engineer for the MIT App Inventor What are your views on the recent increase in the app inventor clones and their future ? App Inventor is open source so it's great to see others looking to fill gaps in functionality that&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div><figure class="post__image post__image--center"><img loading="lazy"  src="https://notes.logyc.xyz/media/posts/16/aaa-3.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://notes.logyc.xyz/media/posts/16/responsive/aaa-3-xs.jpg 300w ,https://notes.logyc.xyz/media/posts/16/responsive/aaa-3-sm.jpg 480w ,https://notes.logyc.xyz/media/posts/16/responsive/aaa-3-md.jpg 768w ,https://notes.logyc.xyz/media/posts/16/responsive/aaa-3-lg.jpg 1024w ,https://notes.logyc.xyz/media/posts/16/responsive/aaa-3-xl.jpg 1360w ,https://notes.logyc.xyz/media/posts/16/responsive/aaa-3-2xl.jpg 1600w"  alt="" width="331" height="276"></figure></div>
+                    <img src="https://notes.logyc.xyz/media/posts/16/aaa.jpg" alt="" />
+                <div> </div>
 <ul style="list-style-type: square;">
 <li>
 <div><strong><span style="color: #3598db;">Evan Patton, lead software engineer for the MIT App Inventor </span></strong></div>
